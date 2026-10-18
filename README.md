@@ -9,14 +9,6 @@
   Building scalable, reliable, and high-performance backend systems.
 </p>
 
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Piyush98123&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
-</p>
-
-
-
-
 ### 👨‍💻 About Me
 
 - 💼 Java Backend Engineer with **5+ years of experience** in software development.

@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyush98123" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Piyush98123&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
 </p>
 
 

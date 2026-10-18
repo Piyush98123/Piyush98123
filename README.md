@@ -9,8 +9,9 @@
   Building scalable, reliable, and high-performance backend systems.
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-![Profile Views](https://komarev.com/ghpvc/?username=Piyush98123&style=flat-square&color=0e75b6)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Piyush98123&style=flat-square&color=0e75b6" alt="Profile Views" />
+</p>
 
 
 

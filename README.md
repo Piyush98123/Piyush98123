@@ -10,8 +10,8 @@
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+![Profile Views](https://komarev.com/ghpvc/?username=Piyush98123&style=flat-square&color=0e75b6)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Piyush98123&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 ### 👨‍💻 About Me

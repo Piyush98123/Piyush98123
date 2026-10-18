@@ -9,9 +9,11 @@
   Building scalable, reliable, and high-performance backend systems.
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyush98123&style=flat-square&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Piyush98123" alt="Profile Views" />
 </p>
+
 
 
 

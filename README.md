@@ -57,17 +57,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 📊 GitHub Stats
-
-
-
-### 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Piyush98123&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Piyush98123 Profile Views"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Piyush98123&show_icons=true&theme=radical&hide_border=true"

@@ -59,16 +59,26 @@
 ### 📊 GitHub Stats
 
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Piyush98123&label=Profile%20Views&color=0e75b6&style=flat" alt="Piyush98123 Profile Views" />
+
+### 📊 GitHub Stats
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Piyush98123&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Piyush98123 Profile Views"
+  />
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Piyush98123&show_icons=true&theme=radical&hide_border=true" alt="Piyush's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush98123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Piyush98123&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush98123&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
+
 
 
 ### 🤝 Connect With Me
